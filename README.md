@@ -68,8 +68,13 @@ The csv files will be the same.
 
 After this, we can do the data-cleaning process. The code is inside the Data_cleaning.py file and we will get two cleaned csv files named cleaned_cars24_delhi-ncr.csv, and cleaned_cars24_mumbai.csv.
 
-The visualization is done with different Python libraries like Matplotlib, seaborn, pandas and numpy are in the  Tableau the screenshots are attached here:
+The visualization is done with different Python libraries like Matplotlib, seaborn, pandas, and numpy in Project_Cars24. The Tableau screenshots are attached here:
 
-![WhatsApp Image 2024-06-17 at 10 35 39 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/0fedbfaa-9455-4d79-a2e5-4d9a60628b0d)
+![WhatsApp Image 2024-06-17 at 10 35 39 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/0fedbfaa-9455-4d79-a2e5-4d9a60628b0d)![WhatsApp Image 2024-06-17 at 10 36 40 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/7283ea7a-2407-4834-a3da-ece7a12c9376)
+![WhatsApp Image 2024-06-17 at 10 37 31 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/c276f4d5-bab4-420d-9e3a-62f85cce0a74)
+![WhatsApp Image 2024-06-17 at 10 39 49 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/369f888c-6a27-4c8b-b400-f777f6b36550)
+![WhatsApp Image 2024-06-17 at 10 44 09 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/b64f42ad-33a0-4c90-bfe6-806dbcfa1bf4)
+![WhatsApp Image 2024-06-17 at 10 45 22 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/0499e9d6-c51d-4462-ba06-8a5627f12f27)
+
 
 
