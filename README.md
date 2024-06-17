@@ -64,11 +64,11 @@ The code is under the Cars24_delhi_ncr_data.py and Cars_mumbai_data.py and the c
 
 After we have the main.py file which has automated all the processes of scraping the data from all cities required using multiple for loop.
 
-The csv file will be the same.
+The csv files will be the same.
 
 After this, we can do the data-cleaning process. The code is inside the Data_cleaning.py file and we will get two cleaned csv files named cleaned_cars24_delhi-ncr.csv, and cleaned_cars24_mumbai.csv.
 
-The visualization is done with Tableau the screenshots are attached here:
+The visualization is done with different Python libraries like Matplotlib, seaborn, pandas and numpy are in the  Tableau the screenshots are attached here:
 
 ![WhatsApp Image 2024-06-17 at 10 35 39 PM](https://github.com/Sandhya-16-m-64/Cars24/assets/172419475/0fedbfaa-9455-4d79-a2e5-4d9a60628b0d)
 
